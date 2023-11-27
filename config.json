@@ -1,0 +1,5 @@
+{
+    "username": "localadm",
+    "file_name": "list.txt",
+    "cmd": "tasklist"
+}

@@ -1,0 +1,10 @@
+database1=main
+user1=postgres
+password1=6653549
+host1=localhost
+port1=5432
+database2=default
+user2=postgres
+password2=6653549
+host2=localhost
+port2=5432

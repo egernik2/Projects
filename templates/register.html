@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Регистрация - Egernik's Site</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <header>
+      <h1>Egernik's Site</h1>
+      <nav>
+        <a href="/">Главная</a>
+        <a href="about">О сайте</a>
+        <a href="login">Вход</a>
+        <a href="register">Регистрация</a>
+      </nav>
+    </header>
+    <main>
+      <h2>Регистрация</h2>
+      <form>
+        <label for="username">Имя пользователя:</label><br>
+        <input type="text" id="username" name="username"><br>
+        <label for="password">Пароль:</label><br>
+        <input type="password" id="password" name="password"><br>
+        <label for="fullname">Полное имя:</label><br>
+        <input type="text" id="fullname" name="fullname"><br>
+        <label for="email">Адрес электронной почты:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+        <input type="submit" value="Зарегистрироваться">
+      </form>
+    </main>
+    <footer>
+      <p>&copy; 2023 Egernik. Все права защищены.</p>
+    </footer>
+  </body>
+</html>

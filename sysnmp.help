@@ -1,0 +1,4 @@
+Запуск <b>sysnmp</b>: <i>systemctl start sysnmp</i>
+Перезапуск <b>sysnmp</b>: <i>systemctl restart sysnmp</i>
+Остановка <b>sysnmp</b>: <i>systemctl stop sysnmp</i>
+Путь к файлам <b>sysnmp</b>: <i>/usr/local/agntroot/sysnmp</i>
