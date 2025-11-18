@@ -1,7 +1,7 @@
 import telebot
 import paramiko
 
-bot = telebot.TeleBot('6017659832:AAHOO05p_ciK4g1wvSbHbm5YdfkqGqp4eWo')
+bot = telebot.TeleBot('')
 
 @bot.message_handler(commands=['start'])
 def start(message):
