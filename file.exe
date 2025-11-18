@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7 ]> <html class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html><!--<![endif]-->
+<head>
+    <title>DropMeFiles – бесплатный файлообменник без регистрации</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="description" content="Вы можете быстро делиться фотографиями, отправлять видео или передавать файлы большого размера. Наш файлообменник работает без регистрации, скорость загрузки и скачивания данных не ограничена." />
+    <meta name="keywords" content="файлообменник, передать файл большого размера, файлы, поделиться, отправить, залить, закачать, переслать, больше 200 Мб, 500 Мб, 1 Гб, 2 Гб, 4 Гб, 5 Гб, 10 Гб, Gb, информации, без регистрации, фото, видео, по сети, бесплатно" />
+
+    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:locale:alternate" content="ru_RU" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://dropmefiles.com" />
+    <meta property="og:image" content="https://dropmefiles.com/images/share-logo_vk.png" />
+    <meta property="og:site_name" content="Я разместил файлы на DropMeFiles" />
+
+    <meta name='yandex-verification' content='7161e0a417b62d9a' />
+    <meta name='yandex-verification' content='56d98521563b47b8' />
+    <meta name="google-site-verification" content="7x3DdFkwp0i9fafcaF3_z2wRMilP3FOzu78aN76uHCo" />
+        <meta name="referrer" content="no-referrer-when-downgrade" />
+        <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://dropmefiles.com/images/favicons/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/png" href="https://dropmefiles.com/images/favicons/192.png" sizes="192x192" />
+    <link rel="icon" type="image/png" href="https://dropmefiles.com/images/favicons/128.png" sizes="128x128" />
+    <link rel="apple-touch-icon" href="https://dropmefiles.com/images/favicons/57.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="https://dropmefiles.com/images/favicons/120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://dropmefiles.com/images/favicons/120.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://dropmefiles.com/images/favicons/180.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://dropmefiles.com/images/favicons/180.png" />
+    <link rel="manifest" href="https://dropmefiles.com/manifest.json" />
+    <meta name="msapplication-config" content="https://dropmefiles.com/browserconfig.xml" />
+    <link rel="mask-icon" href="https://dropmefiles.com/safari-pinned-tab.svg" color="#dc286b">
+
+    <link rel="image_src" href="https://dropmefiles.com/images/share-logo_vk.png" />
+
+    <!-- Links -->
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="https://dropmefiles.com/css/new.css?ast=c8749dcf" />
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="https://dropmefiles.com/css/jquery.mCustomScrollbar.css?ast=c8749dcf" />
+
+    <link rel="stylesheet" href="https://dropmefiles.com/css/lightbox.css?ast=c8749dcf" type="text/css" />
+        <link rel="stylesheet" href="https://dropmefiles.com/css/swiper.css?ast=c8749dcf" type="text/css" />
+    <link rel="stylesheet" href="https://dropmefiles.com/css/jQueryUI/jquery-ui-1.11.4.structure.min.css?ast=c8749dcf" type="text/css" />
+    <link rel="stylesheet" href="https://dropmefiles.com/css/jQueryUI/jquery-ui-1.11.4.theme.custom.min.css?ast=c8749dcf" type="text/css" />
+    <link rel="stylesheet" href="https://dropmefiles.com/css/troubleTicket.css?ast=c8749dcf" type="text/css" />
+
+    <link rel="stylesheet" href="https://dropmefiles.com/js/video-js/video-js.css?ast=c8749dcf" type="text/css" />
+    <link rel="stylesheet" href="https://dropmefiles.com/js/video-js/videojs.ads.css?ast=c8749dcf" type="text/css" />
+    <link rel="stylesheet" href="https://dropmefiles.com/js/video-js/videojs.ima.css?ast=c8749dcf" type="text/css" />
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script type='text/javascript'>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+/*      (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+          '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+      })();*/
+    </script>
+
+    <script type="text/javascript" src="https://dropmefiles.com/js/jquery/jquery-1.12.4.min.js?ast=c8749dcf"></script>
+    <script type="text/javascript" src="https://dropmefiles.com/js/jquery/jquery-ui-1.11.4.truncated.min.js?ast=c8749dcf"></script>
+    <script type="text/javascript" src="https://dropmefiles.com/js/jquery/jquery.mousewheel.js?ast=c8749dcf"></script>
+    <script type="text/javascript" src="https://dropmefiles.com/js/jquery/jquery.mCustomScrollbar.min.js?ast=c8749dcf"></script>
+    <script type="text/javascript" src="https://dropmefiles.com/js/push/push-1.0.12.min.js?ast=c8749dcf"></script>
+        <script type="text/javascript" src="https://dropmefiles.com/js/jquery/jquery.cookie.js?ast=c8749dcf"></script>
+    <script type="text/javascript" src="https://dropmefiles.com/js/functions.js?ast=c8749dcf"></script>
+    
+        <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-31255982-3', 'auto');
+      ga('send', 'pageview');
+    </script>
+        <script type="text/javascript">
+        $(function() {
+            var likelayer = false;
+            $('.like-layer').hover(function(){
+                if(!likelayer){ $('.like-layer').animate({ width: 59 }); likelayer=true; }
+            },function(){
+                setTimeout(function(){ if(!likelayer){ $('.like-layer').animate({ width: 20 }); } },1000);
+                likelayer=false;
+            });
+        });
+    </script>
+</head>
+<body class="noselect">
+        
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter22609366 = new Ya.Metrika({id:22609366,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[o

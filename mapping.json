@@ -1,0 +1,86 @@
+{
+    "mapping": {
+        "1514-ttkdc_msk_win_act_10_0_8_200": {
+            "RVS": [
+                {
+                    "enrich_from": {
+                        "normalized_field_from": "observer.host.hostname.0",
+                        "collection_field_from": "hostname"
+                    },
+                    "enrich_to": [
+                        {
+                            "normalized_field_to": "observer.host.ip.0",
+                            "collection_field_to": "ip",
+                            "update_normalized_to": true
+                        }
+                    ]
+                },
+                {
+                    "enrich_from": {
+                        "normalized_field_from": "initiator.host.hostname.0",
+                        "collection_field_from": "hostname"
+                    },
+                    "enrich_to": [
+                        {
+                            "normalized_field_to": "initiator.host.ip.0",
+                            "collection_field_to": "ip",
+                            "update_normalized_to": true
+                        }
+                    ]
+                },
+                {
+                    "enrich_from": {
+                        "normalized_field_from": "target.host.hostname.0",
+                        "collection_field_from": "hostname"
+                    },
+                    "enrich_to": [
+                        {
+                            "normalized_field_to": "target.host.ip.0",
+                            "collection_field_to": "ip",
+                            "update_normalized_to": true
+                        }
+                    ]
+                },
+                {
+                    "enrich_from": {
+                        "normalized_field_from": "observer.host.ip.0",
+                        "collection_field_from": "ip"
+                    },
+                    "enrich_to": [
+                        {
+                            "normalized_field_to": "observer.host.hostname.0",
+                            "collection_field_to": "hostname",
+                            "update_normalized_to": true
+                        }
+                    ]
+                },
+                {
+                    "enrich_from": {
+                        "normalized_field_from": "initiator.host.ip.0",
+                        "collection_field_from": "ip"
+                    },
+                    "enrich_to": [
+                        {
+                            "normalized_field_to": "initiator.host.hostname.0",
+                            "collection_field_to": "hostname",
+                            "update_normalized_to": true
+                        }
+                    ]
+                },
+                {
+                    "enrich_from": {
+                        "normalized_field_from": "target.host.ip.0",
+                        "collection_field_from": "ip"
+                    },
+                    "enrich_to": [
+                        {
+                            "normalized_field_to": "target.host.hostname.0",
+                            "collection_field_to": "hostname",
+                            "update_normalized_to": true
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

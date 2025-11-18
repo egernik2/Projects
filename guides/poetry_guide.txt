@@ -1,0 +1,36 @@
+Poetry — это мощный инструмент для управления зависимостями, виртуальными окружениями и сборки Python-проектов. Вот основные моменты:
+
+1. Установка Poetry:
+   curl -sSL https://install.python-poetry.org | python3 -
+
+2. Создание нового проекта:
+   poetry new myproject
+
+3. Добавление зависимостей:
+   poetry add requests
+
+4. Установка зависимостей:
+   poetry install
+
+5. Активация виртуального окружения:
+   poetry shell
+
+6. Запуск скриптов:
+   poetry run python myscript.py
+
+7. Обновление зависимостей:
+   poetry update
+
+8. Публикация пакета:
+   poetry build
+   poetry publish
+
+9. Просмотр информации о проекте:
+   poetry show --tree
+
+10. Управление виртуальными окружениями:
+    poetry env list
+    poetry env remove python
+
+11. Конфигурация Poetry:
+    poetry config virtualenvs.create false
